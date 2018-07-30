@@ -6,7 +6,7 @@ class App extends Component {
   constructor(){
     super();
     this.state = {
-      name: "Das G. Ma"
+      name: "Das G Ma"
     }
   }
   render() {
